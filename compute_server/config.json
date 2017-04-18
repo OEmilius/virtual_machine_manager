@@ -1,0 +1,6 @@
+{
+	"Id": "compute_srv1",
+	"IpPort": "localhost:8000",
+	"Mysql_connect_string": "root@tcp(localhost:3306)/freeswitch",
+	"end_config": "end"
+}
